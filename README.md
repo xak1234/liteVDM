@@ -2,6 +2,8 @@
 
 A lightweight virtual desktop manager for Windows 10 and Windows 11.
 
+![liteVDM desktop strip](docs/vdm-screenshot.png)
+
 VDM provides a small, always-on-top strip of live desktop previews. Use it to switch desktops, move windows between them, create or close desktops, and restore apps saved for each desktop.
 
 ## Features
