@@ -1,0 +1,20 @@
+# Runtime data (contains local executable paths)
+sessions.json
+
+# Logs and Python-generated files
+*.log
+__pycache__/
+*.py[cod]
+
+# Virtual environments and local tooling state
+.venv/
+venv/
+.kiro/
+.omc/
+.pytest_cache/
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
